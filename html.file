@@ -1,0 +1,26 @@
+<html lang = "pt-br"> 
+  <head>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Calcule o seu IMC</h1>
+      <form>
+        <div>
+          <img class="img" id=imgimc type=button src="https://www.vidanatural.org.br/wp-content/uploads/2019/12/%C3%8Dndice-de-Massa-Corporal-scaled.jpg" alt="Valores IMC" width=420 height=280>
+          <div class="lg" id = "start"></div>
+        </div>
+        <div class="container-calculadora-peso">
+          <p></p>
+          <p>Digite seu peso</p>
+          <input id="peso" class="input-number" type="number">
+        </div>
+        <div class="container-calculadora-altura">
+          <p>Digite sua altura</p>
+          <input id="altura" class="input-number" type="number">
+        </div>
+        <input id = "btCalc" class="botao-calcular" type="button" value="Calcular"/>
+        <div id = "resultado"></div>
+      </form>
+    </div>
+  </body>
+</html>
