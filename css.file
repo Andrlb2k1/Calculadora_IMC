@@ -7,10 +7,10 @@ h1{
 .container{
   border: 1px solid black;
   box-shadow: 0px 0px 8px;
-  padding: 16px;
+  padding: 20px;
   margin: 22px;
-  height: 650px;
-  background-color: #2a63ec;
+  height: 652px;
+  background-color: #1a7ae8;
 }
 .lg{
   margin-bottom:16px;
@@ -20,10 +20,10 @@ h1{
   cursor:pointer;
 }
 .container-calculadora-peso, .container-calculadora-altura{
-  margin-botton: 12px;
-  margin-top: 12px;
+  margin-botton: 14px;
+  margin-top: 14px;
   width: 100%;
-  background-color: #2a63ec;
+  background-color: #1a7ae8;
 }
 
 .ba, .bb{
@@ -33,20 +33,20 @@ h1{
 
 .input-number{
   height: 32px;
-  width: 80px;
+  width: 75px;
   margin-left: 16px;
   font-size: 20px;
 }
 
 .botao-calcular{
-  font-size: 24px;
+  font-size: 25px;
   width: 100%;
-  background-color: #22cb16;
+  background-color: #3be52c;
   color: black;
   border: none;
   cursor: pointer;
-  padding: 16px;
-  margin-top: 24px;
+  padding: 18px;
+  margin-top: 26px;
 }
 #imgimc{
   margin-left:33.5%;
