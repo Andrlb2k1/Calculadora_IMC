@@ -11,11 +11,11 @@
         </div>
         <div class="container-calculadora-peso">
           <p></p>
-          <p>Digite seu peso</p>
+          <p>Digite o seu peso em kg!</p>
           <input id="peso" class="input-number" type="number">
         </div>
         <div class="container-calculadora-altura">
-          <p>Digite sua altura</p>
+          <p>Digite a sua altura em cm!</p>
           <input id="altura" class="input-number" type="number">
         </div>
         <input id = "btCalc" class="botao-calcular" type="button" value="Calcular"/>
