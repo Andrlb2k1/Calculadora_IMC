@@ -2,7 +2,7 @@ let img = document.querySelector(".img");
 img.addEventListener("click", function imcStart(){
   console.log("Clicou");
   let leg = document.getElementById("start");
-  leg.textContent = "Você tem o peso ideal? Descubra agora!";
+  leg.textContent = "Você está com o peso ideal? Descubra agora!";
 });
 
 let button = document.getElementById("btCalc");
@@ -29,6 +29,6 @@ button.addEventListener("click", function calcIMC(){
     resultado.textContent = `O seu IMC é ${imc}. ${mensagem}`;
   }
   else{
-    resultado.textContent = "Por favor, preencha os campos solicitados!";
+    resultado.textContent = "Por favor, preencha todos os campos solicitados!";
   }
 });
