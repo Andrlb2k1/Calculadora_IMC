@@ -1,7 +1,7 @@
 h1{
   color: #000000;
-  margin-top:12px;
-  text-align:center;
+  margin-top: 12px;
+  text-align: center;
 }
 
 .container{
@@ -13,11 +13,11 @@ h1{
   background-color: #1a7ae8;
 }
 .lg{
-  margin-bottom:16px;
+  margin-bottom: 16px;
   text-align: center;
 }
 .img{
-  cursor:pointer;
+  cursor: pointer;
 }
 .container-calculadora-peso, .container-calculadora-altura{
   margin-bottom: 14px;
@@ -27,8 +27,8 @@ h1{
 }
 
 .ba, .bb{
-  font-size:16px;
-  text-align:center;
+  font-size: 16px;
+  text-align: center;
 }
 
 .input-number{
@@ -49,8 +49,8 @@ h1{
   margin-top: 26px;
 }
 #imgimc{
-  margin-left:33.5%;
+  margin-left: 33.5%;
 }
 .i{
-  cursor:pointer;
+  cursor: pointer;
 }
