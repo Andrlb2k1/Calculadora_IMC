@@ -1,1 +1,1 @@
-Calculadora de IMC simples e direta.
+Calculadora de IMC simples.

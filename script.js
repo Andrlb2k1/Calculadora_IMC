@@ -11,7 +11,7 @@ button.addEventListener("click", function calcIMC(){
   let altura = document.getElementById("altura").value/100;
   let resultado = document.getElementById("resultado");
   if(altura!=="" && peso!==""){
-    let imc = (peso /(altura * altura)).toFixed(1);
+    let imc = (peso /(altura ** 2)).toFixed(1);
     let mensagem = "";
     if(imc < 18.5){
       mensagem = "Você está abaixo do peso!"

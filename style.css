@@ -12,13 +12,16 @@ h1{
   height: 652px;
   background-color: #1a7ae8;
 }
+
 .lg{
   margin-bottom: 16px;
   text-align: center;
 }
+
 .img{
   cursor: pointer;
 }
+
 .container-calculadora-peso, .container-calculadora-altura{
   margin-bottom: 14px;
   margin-top: 14px;
@@ -48,9 +51,11 @@ h1{
   padding: 18px;
   margin-top: 26px;
 }
+
 #imgimc{
   margin-left: 33.5%;
 }
+
 .i{
   cursor: pointer;
 }
